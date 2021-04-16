@@ -1,4 +1,4 @@
-package Pracetice.Pracetice_1;
+package Pracetice_2;
 
 import java.util.EmptyStackException;
 import java.util.LinkedList;

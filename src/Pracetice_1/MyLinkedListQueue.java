@@ -1,4 +1,4 @@
-package Pracetice.Pracetice_2;
+package Pracetice_1;
 
 public class MyLinkedListQueue {
     private Node head;

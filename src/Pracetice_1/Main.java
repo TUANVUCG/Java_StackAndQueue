@@ -1,4 +1,4 @@
-package Pracetice.Pracetice_2;
+package Pracetice_1;
 
 public class Main {
     public static void main(String[] args) {
